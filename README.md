@@ -1,7 +1,7 @@
 ![hero](https://user-images.githubusercontent.com/54265936/216829891-21619a27-c8d1-4be5-be65-8234284eef4e.png)
 
 # NX_360Exporter
-Save the render in JPEG and insert EXIF data to create a panorama at 360°.
+Save the render in JPEG and insert EXIF data to create a 360 panorama.
 
 <img src="https://img.shields.io/badge/Blender-2.8.0-green" /> <img src="https://img.shields.io/badge/Python-3.10-blue" /> <img src="https://img.shields.io/badge/Addon-1.0.0.Stable-orange" /> 
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
