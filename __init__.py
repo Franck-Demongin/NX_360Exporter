@@ -14,7 +14,7 @@
 bl_info = {
     "name" : "NX_360Exporter",
     "author" : "Franck Demongin",
-    "description" : "",
+    "description" : "Save the render in JPEG and insert EXIF data to create a 360 panorama",
     "blender" : (2, 80, 0),
     "version" : (1, 0, 0),
     "location" : "Image Editor > Image > Save > Save 360",
